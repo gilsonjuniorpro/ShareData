@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShareData</string>
+    <string name="first">First Activity</string>
+    <string name="second">Second Activity</string>
+</resources>
